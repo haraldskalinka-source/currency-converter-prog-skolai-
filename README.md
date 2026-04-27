@@ -11,7 +11,7 @@ Uzstādīšana:
 Pārbaudīt ar: python --version
 2. Instalēt ārējo bibliotēku: python -m pip install requests
 3. Lejuplādēt projektu no GitHub: ielikt link!!!!
-4. Palaist programmu: python_currency_converter.py
+4. Palaist programmu: final_py_converter.py
 5. Neskaidrību, vai kļūdu gadījumā zvanīt +371 25 406 569, vai konsultēties ar ChatGPT.
 
 Funkcijas:
